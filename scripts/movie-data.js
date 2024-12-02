@@ -25,4 +25,4 @@ export const movies = [
         poster: "https://www.movieartarena.com/imgs/lionkingintz.jpg",
         description: "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
     }
- ];
+ ]
